@@ -1,6 +1,6 @@
 url: https://blog.amarahub.org
 title: Amara Hub
-subtitle: Skills, knowledge and opportunity for Northern Uganda.
+subtitle: Skills, knowledge and opportunity for young people.
 permalink: /blog/:year/:month/:day/:title/
 baseurl: "" # the subpath of your site, e.g. /blog/
 
