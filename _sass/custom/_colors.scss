@@ -1,0 +1,17 @@
+// Amara Hub brand palette (Brand Guidelines, January 2021)
+// Variable names kept from the original theme so all references still resolve.
+
+$amara_navy:     #0B3255; // primary — headings, titles
+$amara_blue:     #08538C; // secondary — links, section labels
+$amara_sky:      #16A4DA; // accent — hover states, highlights
+$amara_teal:     #62C5B5; // supporting accent
+$amara_yellow:   #F1D14B; // callout / flag colour
+
+$artsy_bright: $amara_blue;      // link colour
+$artsy_noir: $amara_navy;        // titles
+$artsy_highlight: $amara_sky;    // hover / highlight
+$artsy_bg: #FFFFFF;
+$artsy_text: #1A1A1A;
+
+$title-color: $artsy_noir;
+$subtitle-color: $artsy_noir;

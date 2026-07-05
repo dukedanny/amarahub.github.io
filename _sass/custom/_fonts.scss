@@ -1,0 +1,14 @@
+// Amara Hub typography: League Spartan for headings, Source Sans Pro for body.
+$sans: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$heading: "League Spartan", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+h1, h2, h3, h4, h5, h6,
+.header-logo, .header-section-title, .header-search {
+  font-family: $heading;
+  color: $amara_navy;
+}
+
+$heading-font-family: $heading;
+$header-title-font-family: $heading;
+$header-subtitle-font-family: $heading;
+$serif: $sans; // theme "serif" slots render in Source Sans Pro

@@ -1,0 +1,39 @@
+url: https://blog.amarahub.org
+title: Amara Hub
+subtitle: Skills, knowledge and opportunity for Northern Uganda.
+permalink: /blog/:year/:month/:day/:title/
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+subscribe_rss: /feed.xml
+
+exclude: ["vendor", "LICENSE", "_posts/LICENSE", "README.md"]
+
+plugins: ["jekyll-redirect-from", "jekyll-paginate"]
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+paginate: 10
+paginate_path: "/blog/:num/"
+
+recent_posts: 5
+excerpt_link: "Read More"
+titlecase: true
+category_dir: blog/categories
+
+authors:
+  amarahub:
+    name: Amara Hub Team
+    site: https://amarahub.org
+
+  bridget:
+    name: Bridget Kezaabu
+    site: https://amarahub.org
+
+  daniel:
+    name: Daniel Duke Odongo
+    site: https://amarahub.org
+include: ["CNAME"]
