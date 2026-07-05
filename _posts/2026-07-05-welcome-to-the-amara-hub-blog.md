@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to the Amara Hub Blog"
 date: 2026-07-05 12:00
-comments: false
+comments: true
 author: amarahub
 categories: [news]
 ---
