@@ -1087,3 +1087,17 @@ table  a {
 p a code {
   font-size: 0.7em;
 }
+
+/* --- Collapse reserved header space after nav links removed --- */
+.sticky-wrapper { min-height: 0 !important; }
+
+header#banner #header {
+  height: auto;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+header#banner #header .header-navigation {
+  height: auto;
+  margin-left: 0;
+}
