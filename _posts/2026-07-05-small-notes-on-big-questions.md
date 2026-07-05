@@ -4,7 +4,7 @@ title: "Small Notes on Big Questions"
 date: 2026-07-05 12:00
 comments: false
 author: amarahub
-categories: [news]
+categories: [why?]
 ---
 
 At Amara Hub, some of our most important work begins as a question, a sketch, a conversation, or an idea that we are not yet ready to fully define.
