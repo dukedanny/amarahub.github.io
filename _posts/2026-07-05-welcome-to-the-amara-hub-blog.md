@@ -21,4 +21,4 @@ It begins with deciding that a question is worth taking seriously, and then foll
 
 Amara Hub is working to build skills, knowledge and opportunity for under-recognised communities and emerging leaders. 
 
-To follow along, follow updates from our [LinkedIn](htpps://linkedin.com/amarahub), [Twitter](https://x.com/amaraimpact), and [Medium](https://medium.com/@amarahub) or visit us at Plot 62, Lira - Gulu Road, Kole District, Uganda, East Africa.
+To follow along, follow updates from our [LinkedIn](htpps://linkedin.com/amarahub), [Twitter](https://x.com/amaraimpact), and [Medium](https://medium.com/@amarahub) or drop a mail to our team via team (at) amarahub (dot) org
