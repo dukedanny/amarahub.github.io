@@ -1095,9 +1095,32 @@ header#banner #header {
   height: auto;
   padding-top: 24px;
   padding-bottom: 24px;
+  border-bottom: 0;          /* removes the stray black line */
 }
 
 header#banner #header .header-navigation {
   height: auto;
   margin-left: 0;
+}
+
+/* Mobile: no hamburger menu anymore */
+.header-hamburger { display: none !important; }
+
+@media screen and (max-width: 799px) {
+  header#banner {
+    height: auto !important;
+    max-height: none !important;
+    border-bottom: 0 !important;
+    overflow: visible !important;
+  }
+  header#banner .header-search h2 {
+    border-bottom: 0 !important;
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+  }
+  header#banner .header-navigation {
+    position: static !important;
+    margin: 0 !important;
+    opacity: 1 !important;
+  }
 }
