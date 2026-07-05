@@ -1,6 +1,6 @@
 url: https://blog.amarahub.org
-title: Amara Hub
-subtitle: Skills, knowledge and opportunity for young people.
+title: Field Notes | Amara Hub
+subtitle: Skills, knowledge and opportunity.
 permalink: /blog/:year/:month/:day/:title/
 baseurl: "" # the subpath of your site, e.g. /blog/
 
@@ -28,11 +28,7 @@ authors:
   amarahub:
     name: Amara Hub Team
     site: https://amarahub.org
-
-  bridget:
-    name: Bridget Kezaabu
-    site: https://amarahub.org
-
+    
   daniel:
     name: Daniel Duke Odongo
     site: https://amarahub.org
