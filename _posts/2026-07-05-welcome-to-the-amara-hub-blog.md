@@ -1,20 +1,24 @@
 ---
 layout: post
-title: "Welcome to the Amara Hub Blog"
+title: "Small Notes on Big Questions"
 date: 2026-07-05 12:00
 comments: false
 author: amarahub
 categories: [news]
 ---
 
-Welcome to the new Amara Hub blog. This is where we'll share stories from our programmes across Northern Uganda — practical skilling, agricultural advisory work, youth and women's enterprise development, and news from the Kole farmers market.
+At Amara Hub, some of our most important work begins as a question, a sketch, a conversation, or an idea that we are not yet ready to fully define.
+
+This is our space to share some of that thinking on what we are exploring, what we are trying to understand, and what we may eventually shape, support, challenge, or bring into the world.
+
+These are internal notes from unfinished journeys.
+
+We are sharing them because sometimes the work begins before the funding, before the perfect plan, and before we fully know where it will lead.
+
+It begins with deciding that a question is worth taking seriously, and then following it far enough to see what becomes possible.
 
 <!-- more -->
 
-Amara Hub is a non-profit community-based organisation working to build skills, knowledge and opportunity for under-recognised communities and emerging leaders. Through this blog we'll publish:
+Amara Hub is working to build skills, knowledge and opportunity for under-recognised communities and emerging leaders. 
 
-- Updates from our programmes and partners
-- Stories from the farmers, artisans and entrepreneurs we work with
-- Announcements, opportunities and events
-
-To follow along, subscribe to our [RSS feed](/feed.xml) or visit us at [amarahub.org](https://amarahub.org).
+To follow along, follow updates from our [LinkedIn](htpps://linkedin.com/amarahub), [Twitter](https://x.com/amaraimpact), and [Medium](https://medium.com/@amarahub) or visit us at Plot 62, Lira - Gulu Road, Kole District, Uganda, East Africa.
