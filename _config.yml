@@ -1,7 +1,7 @@
 url: https://blog.amarahub.org
 title: Field Notes | Amara Hub
 subtitle: Skills, knowledge and opportunity.
-permalink: /blog/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 subscribe_rss: /feed.xml
@@ -17,12 +17,12 @@ kramdown:
   hard_wrap: false
 
 paginate: 10
-paginate_path: "/blog/:num/"
+paginate_path: "/page:num/"
 
 recent_posts: 5
 excerpt_link: "Read More"
 titlecase: true
-category_dir: blog/categories
+category_dir: categories
 
 authors:
   amarahub:

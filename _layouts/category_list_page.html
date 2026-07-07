@@ -14,7 +14,7 @@ footer: false
       {% assign cat_name = category[0] %}
       {% assign cat_posts = category[1] %}
       {% assign slug = cat_name | replace: '_','-' | replace: ' ','-' | downcase %}
-      <li><a href="{{ '/blog/categories/' | append: slug | append: '/' | relative_url }}">{{ cat_name }}</a> ({{ cat_posts | size }})</li>
+      <li><a href="{{ '/categories/' | append: slug | append: '/' | relative_url }}">{{ cat_name }}</a> ({{ cat_posts | size }})</li>
     {% endfor %}
     </ul>
   </article>

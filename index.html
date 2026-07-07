@@ -12,8 +12,8 @@ layout: default
   {% endfor %}
 
   <div class="pagination">
-    <a href="/blog/archives">Blog Archives</a>
-    <a href="{{ '/blog/categories' | relative_url }}">Categories</a>
+    <a href="{{ '/archives/' | relative_url }}">Blog Archives</a>
+    <a href="{{ '/categories/' | relative_url }}">Categories</a>
 
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
