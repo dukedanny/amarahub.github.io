@@ -29,7 +29,4 @@ authors:
     name: Amara Hub Team
     site: https://amarahub.org
     
-  daniel:
-    name: Daniel Duke Odongo
-    site: https://amarahub.org
 include: ["CNAME"]
