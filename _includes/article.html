@@ -35,7 +35,7 @@
       {% include post/author.html %}
     </p>
     <p class="meta-categories">
-      Categories: {% include post/categories.html %}
+      Categories: {% include post/categories.html categories=page.categories %}
     </p>
     {% if page.series %}
       <p class="meta-series" style="padding-bottom:0;">Part of a series: <strong>{{ page.series | series_link }}</strong></p>

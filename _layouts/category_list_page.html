@@ -8,12 +8,14 @@ footer: false
 
 <div class="index-main" style="padding-top:0px">
   <article>
-    <p>We covered a lot of topics in the last few years, here's all of the tags we've applied to our posts.</p>
+    <p>Browse posts by topic:</p>
     <ul>
-    {% for category in page.categories %}
-      <li><a title="{{ category.count }} posts on {{ category.name }}" href="/blog/categories/{{ category.dir }}">{{ category.name }}</a></li>
+    {% for category in site.categories %}
+      {% assign cat_name = category[0] %}
+      {% assign cat_posts = category[1] %}
+      {% assign slug = cat_name | replace: '_','-' | replace: ' ','-' | downcase %}
+      <li><a href="{{ '/blog/categories/' | append: slug | append: '/' | relative_url }}">{{ cat_name }}</a> ({{ cat_posts | size }})</li>
     {% endfor %}
     </ul>
   </article>
 </div>
-
