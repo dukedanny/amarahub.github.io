@@ -18,15 +18,10 @@
   {% if author %}
     <span class="byline author vcard">
 
-      <div class="meta"><span class="fn"><a href="/author/{{key}}">
+      <div class="meta"><span class="fn"><a href="{{ '/authors/' | relative_url }}#{{key}}">
         {{ author.name }}
       </a></span></div>
 
-      {% if author.site %}
-      <span class="fn">
-        <a href="{{ author.site }}">Site</a>
-      </span>
-      {% endif %}
       {% if author.github %}
       <span class="fn">
         <a href="https://github.com/{{ author.github }}">GitHub</a>

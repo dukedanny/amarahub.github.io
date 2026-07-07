@@ -1,0 +1,33 @@
+---
+layout: page
+title: Authors
+footer: false
+permalink: /authors/
+---
+<div class="index-sidebar">
+  <h1>Authors</h1>
+</div>
+
+<div class="index-main" style="padding-top:0px">
+  <article>
+    {% for author_entry in site.authors %}
+      {% assign key = author_entry[0] %}
+      {% assign author = author_entry[1] %}
+      <h2 id="{{ key }}" style="margin-top:1.5em">{{ author.name }}</h2>
+      {% if author.site %}
+      <p><a href="{{ author.site }}">{{ author.site }}</a></p>
+      {% endif %}
+      <ul>
+      {% for post in site.posts %}
+        {% assign a = post.author %}
+        {% if a == key %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span style="color:#888"> &mdash; {{ post.date | date: "%b %-d, %Y" }}</span>
+        </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    {% endfor %}
+  </article>
+</div>
