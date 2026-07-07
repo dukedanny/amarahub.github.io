@@ -1,0 +1,40 @@
+---
+layout: page
+title: Categories
+footer: false
+permalink: /categories/
+---
+<div class="index-sidebar">
+  <h1>Categories</h1>
+</div>
+
+<div class="index-main" style="padding-top:0px">
+  <article>
+    {% comment %} Jump list of all categories {% endcomment %}
+    <p>Browse posts by topic:</p>
+    <ul>
+    {% for category in site.categories %}
+      {% assign cat_name = category[0] %}
+      {% assign cat_posts = category[1] %}
+      {% assign slug = cat_name | slugify %}
+      <li><a href="#{{ slug }}">{{ cat_name }}</a> ({{ cat_posts | size }})</li>
+    {% endfor %}
+    </ul>
+
+    {% comment %} Posts grouped under each category {% endcomment %}
+    {% for category in site.categories %}
+      {% assign cat_name = category[0] %}
+      {% assign cat_posts = category[1] %}
+      {% assign slug = cat_name | slugify %}
+      <h2 id="{{ slug }}" style="margin-top:2em">{{ cat_name }}</h2>
+      <ul>
+      {% for post in cat_posts %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span style="color:#888"> &mdash; {{ post.date | date: "%b %-d, %Y" }}</span>
+        </li>
+      {% endfor %}
+      </ul>
+    {% endfor %}
+  </article>
+</div>
