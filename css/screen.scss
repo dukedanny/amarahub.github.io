@@ -1124,3 +1124,30 @@ header#banner #header .header-navigation {
     opacity: 1 !important;
   }
 }
+/* --- Footer social icons (X, LinkedIn, Medium) --- */
+.footer-social {
+  @include desktop-container;
+  margin-left: 250px;
+  margin-top: 12px;
+  display: flex;
+  gap: 18px;
+  align-items: center;
+
+  a {
+    display: inline-flex;
+    color: #9C9A92;              /* muted grey, like the Anthropic docs footer */
+    border: 0;
+    transition: color 0.15s ease;
+  }
+  a:hover {
+    color: #08538C;             /* Amara blue on hover */
+  }
+  svg { display: block; }
+}
+
+@media screen and (max-width: 799px) {
+  .footer-social {
+    margin-left: 0;
+    justify-content: flex-start;
+  }
+}
