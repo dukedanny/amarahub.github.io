@@ -20,6 +20,4 @@ We are sharing them because sometimes the work begins before the funding, before
 It begins with deciding that a question is worth taking seriously, and then following it far enough to see what becomes possible.
 
 
-Amara Hub is working to build skills, knowledge and opportunity for under-recognised communities and emerging leaders. 
 
-To follow along, follow updates from our [LinkedIn](htpps://linkedin.com/amarahub), [Twitter](https://x.com/amaraimpact), and [Medium](https://medium.com/@amarahub) or drop a mail to our team via team (at) amarahub (dot) org

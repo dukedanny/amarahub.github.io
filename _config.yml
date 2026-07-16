@@ -1,4 +1,5 @@
 url: https://blog.amarahub.org
+google_analytics_tracking_id: G-353449373  # replace with your GA4 Measurement ID
 title: Field Notes | Amara Hub
 subtitle: Skills, knowledge and opportunity.
 permalink: /:year/:month/:day/:title/

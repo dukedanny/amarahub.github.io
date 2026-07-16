@@ -11,7 +11,11 @@
         {% else %}
           <h2 class="entry-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h2>
         {% endif %}
-        <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%b %-d, %Y" }}</time>
+        {% if index %}
+          <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+        {% else %}
+          <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%b %-d, %Y" }}</time>
+        {% endif %}
           <p class="meta-author">{% include post/mini-author.html %}</p>
           </a>
       </header>
@@ -22,7 +26,7 @@
     {% if index %}
     {% if post.content contains '<!-- more -->' %}
         {{ post.content | split:'<!-- more -->' | first }}
-        <p><a href="{{ post.url }}">Read on →</a></p>
+        <p><a href="{{ post.url | relative_url }}">Read on →</a></p>
     {% else %}
         {{ post.content }}
     {% endif %}
