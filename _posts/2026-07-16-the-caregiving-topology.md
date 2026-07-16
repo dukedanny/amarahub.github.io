@@ -7,17 +7,17 @@ author: amarahub
 categories: [Climate and Care]
 ---
 
-In January, fifteen women in Northern Uganda spent two weeks photographing their daily lives as part of our photovoice research on climate and care. The pictures showed longer walks for water, fuelwood trips that take whole mornings, more childcare during drought months, and conservation meetings women skip because no one else will cook.
+In January, fifteen women in Northern Uganda spent two weeks documenting their daily lives to contribute to our photovoice research on climate and care. The pictures showed longer walks for water, fuelwood trips that take whole mornings, more childcare during drought months, and conservation meetings women skip because no one else will cook.
 
 <!-- more -->
 
-When the photographs were presented at a community baraza, 173 people attended. A local government official summed up the discussion: the community has always been asked to protect the environental resources, but nobody has accounted for what that asks of the women caring for every household in it.
+When the photographs were presented at a community baraza, 173 people attended. A local government official summed up the discussion: the community has always been asked to support climate adaptation and restoration activities, but nobody has accounted for what that asks of the women caring for every household in it.
 
 That left us with a familiar problem. We had strong qualitative evidence about who these caregivers are, and a monitoring panel of 80 households doing structured monthly interviews on KoboToolbox and producing numbers about workloads and income. The two didn't connect. Stories couldn't answer "how many?" Our panel average couldn't answer "who?" Local government planners asked us both these questions.
 
 <b>The method we borrowed</b>
 
-Quicksand, a design research studio, faced the same problem at national scale in their Digital Personas work and wrote about their solution in "Personas you can count." Instead of clustering or training a classifier, they wrote plain rules by hand that assign every survey respondent to a qualitatively-derived persona. 
+Quicksand, a design research studio, faced the same problem at national scale in their <a href=(https://designwithdp.org/) target = "_blank"> Digital Personas</a> work and wrote about their solution in "Personas you can count." Instead of clustering or training a classifier, they wrote plain rules by hand that assign every survey respondent to a qualitatively-derived persona. 
 
 We applied the same approach to our 80-household panel.
 
