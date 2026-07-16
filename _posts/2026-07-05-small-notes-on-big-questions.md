@@ -13,11 +13,12 @@ This is our space to share some of that thinking on what we are exploring, what 
 
 These are internal notes from unfinished journeys.
 
+<!-- more -->
+
 We are sharing them because sometimes the work begins before the funding, before the perfect plan, and before we fully know where it will lead.
 
 It begins with deciding that a question is worth taking seriously, and then following it far enough to see what becomes possible.
 
-<!-- more -->
 
 Amara Hub is working to build skills, knowledge and opportunity for under-recognised communities and emerging leaders. 
 
