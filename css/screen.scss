@@ -1124,30 +1124,38 @@ header#banner #header .header-navigation {
     opacity: 1 !important;
   }
 }
-/* --- Footer social icons (X, LinkedIn, Medium) --- */
-.footer-social {
+
+
+/* --- Footer: home link + social icons on one row --- */
+.footer-navigation .footer-row {
   @include desktop-container;
   margin-left: 250px;
-  margin-top: 12px;
   display: flex;
-  gap: 18px;
   align-items: center;
+  gap: 20px;
+}
+.footer-navigation .footer-home {
+  font-size: 20px;
+}
+.footer-social {
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
 
   a {
     display: inline-flex;
-    color: #9C9A92;              /* muted grey, like the Anthropic docs footer */
+    color: #9C9A92;
     border: 0;
     transition: color 0.15s ease;
   }
-  a:hover {
-    color: #08538C;             /* Amara blue on hover */
-  }
+  a:hover { color: #08538C; }
   svg { display: block; }
 }
 
 @media screen and (max-width: 799px) {
-  .footer-social {
+  .footer-navigation .footer-row {
     margin-left: 0;
-    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 14px;
   }
 }
