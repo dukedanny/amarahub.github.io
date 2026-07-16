@@ -7,13 +7,13 @@ author: amarahub
 categories: [Climate and Care]
 ---
 
-In January, fifteen women in Kole District spent two weeks photographing their daily lives as part of our photovoice research. The pictures showed longer walks for water, fuelwood trips that take whole mornings, more childcare during drought months, and conservation meetings women skip because no one else will cook.
+In January, fifteen women in Northern Uganda spent two weeks photographing their daily lives as part of our photovoice research on climate and care. The pictures showed longer walks for water, fuelwood trips that take whole mornings, more childcare during drought months, and conservation meetings women skip because no one else will cook.
 
 <!-- more -->
 
-When the photographs were presented at a community baraza at Apii Primary School, 173 people attended. A Natural Resources Committee member summed up the discussion: the community has always been asked to protect the forest, but nobody has accounted for what that asks of the women caring for every household in it.
+When the photographs were presented at a community baraza, 173 people attended. A local government official summed up the discussion: the community has always been asked to protect the environental resources, but nobody has accounted for what that asks of the women caring for every household in it.
 
-That left us with a familiar problem. We had strong qualitative evidence about who these caregivers are, and a monitoring panel — 80 households doing structured monthly interviews on KoboToolbox — producing numbers about workloads and income. The two didn't connect. Stories couldn't answer "how many?" The panel average couldn't answer "who?" Funders and district planners ask both.
+That left us with a familiar problem. We had strong qualitative evidence about who these caregivers are, and a monitoring panel of 80 households doing structured monthly interviews on KoboToolbox and producing numbers about workloads and income. The two didn't connect. Stories couldn't answer "how many?" Our panel average couldn't answer "who?" District planners asked us both these questions.
 
 <b>The method we borrowed</b>
 
@@ -40,13 +40,13 @@ In each quarter, five ordered rules assigned to every panel household to one typ
 
 <b>What it changes</b>
 
-Prevalence. We can report how many households sit in each type and how that shifts. Our illustrative six-month projection: full-load caregivers falling from 45 households to 22.
+Prevalence. We can now report how many households fall into each type, and track how those numbers shift over time. The six-month analysis of our project study saw the number of full-load caregivers — women carrying the household's care work alone — dropping from 45 households to 22 as care was redistributed and support reached them.
 
 Movement. The transition matrix shows household journeys rather than averages: seventeen households moving from full-load to transitioning, six completing the pathway — and eleven sole carers not moving at all, because household dialogue can't help a household with no one to share with. That last number is the quantified case for community care infrastructure.
 
-Disaggregation. Any panel measure can be split by type. In the projections, constrained entrepreneurs carry the second-heaviest care day — 8.9 hours — behind only sole carers. Income without time relief is a pattern the photovoice participants described; the typology puts a number on it.
+Disaggregation. Any panel measure can be split by type. In the study, constrained entrepreneurs carried the second-heaviest care day with 8.9 hours — behind only sole carers. Income without time relief is a pattern the photovoice participants described; the typology puts a number on it.
 
-Advocacy. The traits defining the types — household composition, dependant load — also exist in census and DHS data. That lets us estimate how many caregivers across the five sub-counties resemble each type, and size our asks to the district accordingly, then log the commitments and follow them up.
+Advocacy. The traits defining the types like household composition and dependant load also exist in census and DHS data. That lets us estimate how many caregivers across the five sub-counties in our project area resemble each type, and size our asks to the local government accordingly, then log the commitments and follow them up.
 
 <b>Caveats</b>
 
@@ -54,7 +54,7 @@ These are worth stating plainly. Types are modes, not fixed categories; househol
 
 <b>Get the working paper</b>
 
-The full write-up covers the complete rule set, the four open KoboToolbox instruments, the quarterly analysis pipeline, the association statistics and their limits, and the population-anchoring approach. The forms and typing script are open for reuse. If you run a care, climate or livelihoods programme and want to try this — or want to tell us where our rule boundaries are wrong — download the working paper or write to team@amarahub.org.
+Our full write-up covers the complete rule set, the four open KoboToolbox instruments used, the quarterly analysis pipeline, the association statistics and their limits, and our population-anchoring approach. The forms and typing script are also open for reuse. If you run a care, climate or livelihoods programme and want to try this — or want to tell us where our rule boundaries are wrong — download the working paper or write to team@amarahub.org.
 
 
 
