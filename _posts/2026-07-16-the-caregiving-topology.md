@@ -13,7 +13,7 @@ In January, fifteen women in Northern Uganda spent two weeks photographing their
 
 When the photographs were presented at a community baraza, 173 people attended. A local government official summed up the discussion: the community has always been asked to protect the environental resources, but nobody has accounted for what that asks of the women caring for every household in it.
 
-That left us with a familiar problem. We had strong qualitative evidence about who these caregivers are, and a monitoring panel of 80 households doing structured monthly interviews on KoboToolbox and producing numbers about workloads and income. The two didn't connect. Stories couldn't answer "how many?" Our panel average couldn't answer "who?" District planners asked us both these questions.
+That left us with a familiar problem. We had strong qualitative evidence about who these caregivers are, and a monitoring panel of 80 households doing structured monthly interviews on KoboToolbox and producing numbers about workloads and income. The two didn't connect. Stories couldn't answer "how many?" Our panel average couldn't answer "who?" Local government planners asked us both these questions.
 
 <b>The method we borrowed</b>
 
