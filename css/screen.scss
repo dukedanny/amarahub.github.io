@@ -1169,3 +1169,23 @@ header#banner #header .header-sticky-container {
   margin-top: 64px !important;
   margin-bottom: 48px !important;
 }
+
+/* --- Contain post figures within the reading column (no full-bleed) --- */
+.entry-content > figure {
+  margin-left: 0 !important;
+  margin-right: auto !important;
+  width: 100% !important;
+  max-width: 620px;          /* keeps charts readable, not oversized */
+  float: none !important;
+}
+.entry-content > figure img {
+  width: 100%;
+  height: auto;
+  margin: 12px 0 6px;
+}
+.entry-content > figure figcaption {
+  text-align: left;
+  font-size: 14px;
+  color: #73726C;
+  margin-bottom: 8px;
+}
