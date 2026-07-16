@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Five Ways to Carry a Household"
-date: 2026-07-05 12:00
+date: 2026-07-16 09:00
 comments: false
 author: amarahub
 categories: [Climate and Care]
@@ -21,4 +21,4 @@ We borrowed the whole idea and scaled it down — from a national survey to an 8
 
 Amara Hub is working to build skills, knowledge and opportunity for under-recognised communities and emerging leaders. 
 
-To follow along, follow updates from our [LinkedIn](htpps://linkedin.com/amarahub), [Twitter](https://x.com/amaraimpact), and [Medium](https://medium.com/@amarahub) or drop a mail to our team via team (at) amarahub (dot) org
+To follow along, follow updates from our [LinkedIn](https://linkedin.com/company/amarahub), [Twitter](https://x.com/amaraimpact), and [Medium](https://medium.com/@amarahub) or drop a mail to our team via team (at) amarahub (dot) org
