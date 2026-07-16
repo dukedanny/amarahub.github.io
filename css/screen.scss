@@ -1125,22 +1125,14 @@ header#banner #header .header-navigation {
   }
 }
 
-
-/* --- Footer: home link + social icons on one row --- */
-.footer-navigation .footer-row {
+/* --- Footer social icons (replaces the amarahub.org link) --- */
+.footer-navigation .footer-social {
   @include desktop-container;
   margin-left: 250px;
+  margin-top: 0;
   display: flex;
   align-items: center;
-  gap: 20px;
-}
-.footer-navigation .footer-home {
-  font-size: 20px;
-}
-.footer-social {
-  display: inline-flex;
-  align-items: center;
-  gap: 16px;
+  gap: 28px;
 
   a {
     display: inline-flex;
@@ -1153,9 +1145,7 @@ header#banner #header .header-navigation {
 }
 
 @media screen and (max-width: 799px) {
-  .footer-navigation .footer-row {
+  .footer-navigation .footer-social {
     margin-left: 0;
-    flex-wrap: wrap;
-    gap: 14px;
   }
 }
