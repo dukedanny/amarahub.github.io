@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Caregiving Topology"
+title: "The Caregiving Typology"
 date: 2026-07-16 09:00
 comments: false
 author: amarahub
