@@ -7,7 +7,7 @@ author: amarahub
 categories: [Climate and Care]
 ---
 
-In January, fifteen women in Northern Uganda spent two weeks documenting their daily lives to contribute to our photovoice research on climate and care. Their pictures showed longer walks for water, fuelwood trips that take whole mornings, more childcare during drought months, and routines women skip because no one else will cook at home.
+In January, fifteen women spent two weeks documenting their daily lives to contribute to our photovoice research on climate and care. Their pictures showed longer walks for water, fuelwood trips that take whole mornings, more childcare during drought months, and routines women skip because no one else will cook at home.
 
 <!-- more -->
 
@@ -54,7 +54,7 @@ The household types are not permanent labels since families can move from one ty
 
 Our full paper explains the complete method, including the four open KoboToolbox forms, the quarterly analysis process, the statistics used and their limitations, and how the findings are linked to the wider population. The forms and the script used to classify households are also openly available for others to adapt and reuse.
 
-If you work on care, climate or livelihoods programmes and would like to test this approach or challenge where we have drawn the boundaries between household types, download our working paper or contact us via team (at) amarahub (dot) org.
+If you work on care, climate or livelihoods programs and would like to test this approach or challenge where we have drawn the boundaries between household types, download our working paper or contact us via team (at) amarahub (dot) org.
 
 
 
