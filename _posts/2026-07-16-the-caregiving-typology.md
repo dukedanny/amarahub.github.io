@@ -52,7 +52,7 @@ The household types are not permanent labels since families can move from one ty
 
 <b>Get the working paper</b>
 
-Our <a href="https://doi.org/10.5281/zenodo.21416192/" target="_blank">paper</a> explains the methodology, including the four open KoboToolbox forms, the analysis process, the statistics used and their limitations, and how the findings are linked to the wider population. The forms and the script used to classify households are also openly available for others to adapt and reuse.
+Our <a href="https://zenodo.org/records/21416192" target="_blank">paper</a> explains the methodology, including the four open KoboToolbox forms, the analysis process, the statistics used and their limitations, and how the findings are linked to the wider population. The forms and the script used to classify households are also openly available for others to adapt and reuse.
 
 If you work on care, climate or livelihoods programs and would like to test this approach or challenge where we have drawn the boundaries between household types, contact us via team (at) amarahub (dot) org.
 
