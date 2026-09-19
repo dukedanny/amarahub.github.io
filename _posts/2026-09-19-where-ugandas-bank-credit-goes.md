@@ -7,8 +7,6 @@ author: amarahub
 categories: [Data and Policy]
 ---
 
-*What a year of Bank of Uganda credit data reveals about the economy we finance.*
-
 Every month the Bank of Uganda publishes how much credit the country's banks have lent, broken down by sector. It is one of the few places where a national economy states, in plain figures, what it actually values — because money does not follow what we say we care about. It follows what lenders believe will be repaid. Between July 2025 and July 2026, that pool of credit grew from 23.8 to 28.1 trillion shillings, an increase of 18%. Where the new money went, and where it didn't, reveals three Ugandas living inside one ledger.
 
 <!-- more -->
