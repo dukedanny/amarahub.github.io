@@ -45,6 +45,6 @@ It cannot see economic activity concentrated in smallholder farming and informal
 
 <b>About the data</b>
 
-Figures are drawn from the Bank of Uganda's Outstanding Credit by Sector series for deposit-taking institutions (all currencies), monthly, covering the period to July 2026. Percentages are shares of total outstanding credit; growth figures compare July 2025 with July 2026 and are nominal. Sector totals aggregate the published sub-sectors (https://www.bou.or.ug/statistical_portal). 
+Figures are drawn from the <a href="https://www.bou.or.ug/statistical_portal" target="_blank">Bank of Uganda's statistical portal</a> (Outstanding Credit by Sector series) for deposit-taking institutions
 
-If you work on economic data, financial inclusion or regional policy and would like to further explore this analysis, contact us via team (at) amarahub (dot) org.
+Work on economic data, financial inclusion or regional policy and would like to further explore this analysis? contact us via team (at) amarahub (dot) org.
