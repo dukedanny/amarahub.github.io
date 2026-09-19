@@ -22,7 +22,12 @@ The single largest destination for bank credit is not a productive sector at all
 
 <b>The economy that is quietly cooling</b>
 
-For years the growth story was property and the trade routine of building and selling. That engine is losing power. Real estate and construction grew less than 8% over the year, and trade barely 10%, both well below the 18% average, which means both shrank as a share of the whole. Wholesale trade contracted outright. The assumption most Ugandans still hold  that the smart money is in buildings and shops, is slowly ceasing to describe the data. These sectors are maturing, and maturing sectors slow down.
+For years the growth story was property and the trade routine of building and selling. That engine is losing power. Real estate and construction grew less than 8% over the year, and trade barely 10%, both well below the 18% average, which means both shrank as a share of the whole. Wholesale trade contracted outright. Real estate's slice of all lending has slipped from a peak of 19.8% in September 2024 to 17.1% today, a steady decline rather than a blip. The assumption most Ugandans still hold  that the smart money is in buildings and shops, is slowly ceasing to describe the data. These sectors are maturing, and maturing sectors slow down.
+
+<figure>
+  <img src="{{ '/images/2026/credit-by-sector/fig_share_shift.png' | relative_url }}" alt="Diverging bar chart of the change in each sector's share of total credit between July 2025 and July 2026, with mining and quarrying gaining 1.3 points and real estate and construction losing 1.6 points">
+  <figcaption>Figure 2: Change in each sector's share of total credit, July 2025 to July 2026. Green sectors gained share; red sectors lost it.</figcaption>
+</figure>
 
 <b>The economy that is arriving fast</b>
 
@@ -30,7 +35,7 @@ The sharpest movement in the entire dataset is in the ground itself. Credit to m
 
 <figure>
   <img src="{{ '/images/2026/credit-by-sector/fig2_sector_growth.png' | relative_url }}" alt="Horizontal bar chart of 12-month credit growth by sector, with mining and quarrying up 264% and electricity and water up 220%, far above the all-sector average of 18%, while trade and real estate lag at 10% and 8%">
-  <figcaption>Figure 2: Growth in outstanding credit by sector, July 2025 to July 2026. Extractive and energy sectors (purple) grew fastest from small bases.</figcaption>
+  <figcaption>Figure 3: Growth in outstanding credit by sector, July 2025 to July 2026. Extractive and energy sectors (purple) grew fastest from small bases.</figcaption>
 </figure>
 
 <b>The farming paradox</b>
@@ -45,6 +50,6 @@ It cannot see economic activity concentrated in smallholder farming and informal
 
 <b>About the data</b>
 
-Figures are drawn from the <a href="https://www.bou.or.ug/statistical_portal" target="_blank">Bank of Uganda's statistical portal</a> (Outstanding Credit by Sector series) for deposit-taking institutions
+Figures are drawn from the <a href="https://www.bou.or.ug/statistical_portal" target="_blank">Bank of Uganda's statistical portal</a>, using the Outstanding Credit by Sector series for the shilling amounts and growth figures, and the companion Share of Credit series for the sector shares (both for deposit-taking institutions, all currencies, monthly, to July 2026). Growth figures compare July 2025 with July 2026 and are nominal.
 
-Work on economic data, financial inclusion or regional policy and would like to further explore this analysis? contact us via team (at) amarahub (dot) org.
+If you work on economic data, financial inclusion or regional policy and would like to explore this analysis further, contact us via team (at) amarahub (dot) org.
