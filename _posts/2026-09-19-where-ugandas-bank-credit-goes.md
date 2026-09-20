@@ -7,49 +7,50 @@ author: amarahub
 categories: [Data and Policy]
 ---
 
-Every month the Bank of Uganda publishes how much credit the country's banks have lent, broken down by sector. It is one of the few places where a national economy states, in plain figures, what it actually values, because money does not follow what we say we care about. It follows what lenders believe will be repaid. Between July 2025 and July 2026, that pool of credit grew from 23.8 to 28.1 trillion shillings, an increase of 18%. Where the new money went, and where it didn't, reveals three Ugandas living inside one ledger.
+Every month, the Bank of Uganda publishes a simple table. It shows how much money the country's banks have lent and which parts of the economy received it. It is not a glamorous document but it tells a truer story about our economy than most speeches do.
 
 <!-- more -->
 
-<figure>
-  <img src="{{ '/images/2026/credit-by-sector/fig1_credit_shares.png' | relative_url }}" alt="Horizontal bar chart of Uganda's bank credit by sector in July 2026, with personal and household loans the largest at 25.7% and agriculture fifth at 11.7%">
-  <figcaption>Figure 1: Share of total outstanding credit by sector, July 2026. Agriculture (highlighted) sits fifth.</figcaption>
-</figure>
-
-<b>The economy that never changes</b>
-
-The single largest destination for bank credit is not a productive sector at all. It is households, personal and household loans, a full quarter of everything lent, and growing exactly in step with the total. This is the consumption economy: borrowing to pay school fees, to buy a phone, to cover a shortfall, to get through the months between harvests. It is more than twice the size of all agricultural credit combined. This is not a phase the country is passing through on the way to something else. It is the floor everything else stands on, and over the year it did not move.
-
-<b>The economy that is quietly cooling</b>
-
-For years the growth story was property and the trade routine of building and selling. That engine is losing power. Real estate and construction grew less than 8% over the year, and trade barely 10%, both well below the 18% average, which means both shrank as a share of the whole. Wholesale trade contracted outright. Real estate's slice of all lending has slipped from a peak of 19.8% in September 2024 to 17.1% today, a steady decline rather than a blip. The assumption most Ugandans still hold  that the smart money is in buildings and shops, is slowly ceasing to describe the data. These sectors are maturing, and maturing sectors slow down.
+We spent the past year looking at that table, and between July 2025 and July 2026, the total lent by Ugandan banks grew from 23.8 trillion to 28.1 trillion shillings. That is a great deal of new money. The interesting question is where it went.
 
 <figure>
-  <img src="{{ '/images/2026/credit-by-sector/fig_share_shift.png' | relative_url }}" alt="Diverging bar chart of the change in each sector's share of total credit between July 2025 and July 2026, with mining and quarrying gaining 1.3 points and real estate and construction losing 1.6 points">
-  <figcaption>Figure 2: Change in each sector's share of total credit, July 2025 to July 2026. Green sectors gained share; red sectors lost it.</figcaption>
+  <img src="{{ '/images/2026/credit-by-sector/fig_shares_12m.png' | relative_url }}" alt="Horizontal bar chart of the average share of bank credit by sector, July 2025 to July 2026, with personal and household loans largest at 25% and farming fifth at 12%">
+  <figcaption>Average share of all bank credit by sector, July 2025 to July 2026.</figcaption>
 </figure>
 
-<b>The economy that is arriving fast</b>
+Averaged across the year, the biggest single share, about 25 percent of everything lent, goes to personal and household loans. That is more than any industry receives. It is people borrowing to pay school fees, to buy a phone or a motorcycle, to cover a hospital bill, to get through the weeks before the harvest comes in. Buildings and property take 18 percent. Shops and trade take 15 percent. Factories take 13 percent, while farming, the work that feeds Uganda and employs most of its people, gets 12 percent.
 
-The sharpest movement in the entire dataset is in the ground itself. Credit to mining and quarrying grew 264% in a single year. Electricity and water grew 220%. And credit to crude petroleum and natural gas, close to nothing two years ago, multiplied more than fivefold. These sectors are still small — mining remains under 2% of all lending — but that is precisely what a leading edge looks like: minor in size, and accelerating. Uganda's banks are repositioning toward the oil economy before it is large. The oil transition, so often argued about in the abstract, is here a financial fact that can be watched accumulating month by month. For work on land, climate and peace in the affected regions, this is the point at which the argument stops being political and becomes measurable.
+These are averages for the whole year, and the proportions barely moved from one month to the next. This is a signal of how banks lend, month after month, guided by where they believe the money will come back.
+
+Let that sit for a moment. Agriculture employs most of Uganda's workforce, yet our banks lend more than twice as much for personal spending as they lend to everyone who grows our food.
+
+<b>Three things are changing</b>
+
+Look across the whole year and the picture moves in three directions.
+
+Personal borrowing is not going away, and it grew in step with everything else and kept its place at the top. This is simply how many Ugandan families now get by, and is not a passing phase.
+
+For years the safe bet was to build and to trade, but that is now slowing. Lending to real estate and construction grew only 8 percent over the year, and lending to trade barely 10 percent, both well below the average. Real estate's share of all lending has slipped from nearly 20 percent two years ago to 17 percent today. The old belief that the smart money is always in buildings and shops is slowly stopping being true.
+
+Part of the explanation may lie outside this table altogether. Government borrowing from Ugandan banks has grown sharply in recent years, and the International Monetary Fund and Bank of Uganda have both pointed to this as a factor squeezing out private lending: banks can earn steady, low-risk returns by buying government securities instead of lending to a builder or a trader. This is one plausible reason private credit to sectors such as property and trade has grown more slowly. It is not the only explanation, and the two effects are difficult to fully separate in a table like this one, but it is a pattern worth watching alongside these numbers.
+
+Lastly, and one to watch, is that the money is moving into the ground. Lending to mining and quarrying grew 264 percent in a single year. Lending to oil and gas, which was almost nothing two years ago, multiplied more than five times over. Lending for electricity and water also grew fast, up 220 percent, part of a wider push to build out power and infrastructure as the country prepares for oil production to begin. These are still small amounts today, but this is what the beginning of something looks like. The oil economy we have talked about for so long is no longer just talk. You can now watch the banks preparing for it, month by month, in this one table.
 
 <figure>
   <img src="{{ '/images/2026/credit-by-sector/fig2_sector_growth.png' | relative_url }}" alt="Horizontal bar chart of 12-month credit growth by sector, with mining and quarrying up 264% and electricity and water up 220%, far above the all-sector average of 18%, while trade and real estate lag at 10% and 8%">
-  <figcaption>Figure 3: Growth in outstanding credit by sector, July 2025 to July 2026. Extractive and energy sectors (purple) grew fastest from small bases.</figcaption>
+  <figcaption>Growth in outstanding credit by sector, July 2025 to July 2026.</figcaption>
 </figure>
 
-<b>The farming paradox</b>
+<b>What about the farmers?</b>
 
-Underneath all three sits the paradox we began with. Agriculture did grow over the year, a little over 20%, slightly beating the average, a genuine if modest improvement. But it grew from such a low base that its share of the pie moved by two-tenths of one percentage point, from 11.5% to 11.7%. A country that describes itself as agrarian directed a rounding error more of its credit toward farming in a year. The gap between what Uganda says it is and what Uganda finances held almost perfectly steady.
+Farming did grow this year, by about 20 percent, slightly better than average. That is welcome, and worth acknowledging. But farming started from such a low base that its share of total lending barely moved, from 11.5 percent to 11.7 percent. Agriculture employs most of the country's workforce, yet it continues to receive a modest share of formal bank credit relative to that role. Whether that gap should close, and how, is a question for policymakers, lenders and farmers to work through together.
 
-<b>What the ledger cannot see</b>
+<b>What the table cannot tell us</b>
 
-Here is where the numbers, for all their usefulness, go quiet and where the quiet matters most for policy. This dataset is national and sectoral. It has no column for gender and no column for region. So the aggregate that tells us so much also leaves those two important things unaccounted for.
-
-It cannot see economic activity concentrated in smallholder farming and informal retail, which are the under-credited corners of this mapping. And it does not illustrate a distinct picture of any region. One question we ask is if perhaps we would be able to have a better picture if our credit ledger was disaggregated by gender and by region? In that way, local authorities and lenders might see the gaps they currently cannot. Until this is answered, the aggregate will keep answering 'how much?' while leaving 'for whom?' unanswered.
+So the table cannot tell us how much of that farming credit reaches a market trader in Lyantonde District, or a family farming a few acres in the Lango subregion. It cannot tell us whether one region is better served by the banking system than another. At Amara Hub, our work has shown us how much economic activity, particularly the work women do on the farm and in the market, sits outside the formal records that shape national policy. This is not a criticism of the Bank of Uganda's data, which does exactly what it sets out to do. However, it is an observation about what any national, sector-level table currently leaves out. If lending data were also published by region and by the gender of the borrower, local leaders, researchers and lenders would have a fuller picture to work from. Until then, the table can only tell us how much was lent, but not to whom, or where.
 
 <b>About the data</b>
 
-Figures are drawn from the <a href="https://www.bou.or.ug/statistical_portal" target="_blank">Bank of Uganda's statistical portal</a>, using the Outstanding Credit by Sector series for the shilling amounts and growth figures, and the companion Share of Credit series for the sector shares (both for deposit-taking institutions, all currencies, monthly, to July 2026). Growth figures compare July 2025 with July 2026 and are nominal.
+Figures are drawn from the <a href="https://www.bou.or.ug/statistical_portal" target="_blank">Bank of Uganda's statistical portal</a>, credit by sector, to July 2026.
 
-If you work on economic data, financial inclusion or regional policy and would like to explore this analysis further, contact us via team (at) amarahub (dot) org.
+Work on economic data, financial inclusion or regional policy and would like to explore this analysis further? Contact us via team (at) amarahub (dot) org.
