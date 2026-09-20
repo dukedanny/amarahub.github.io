@@ -47,7 +47,9 @@ Farming did grow this year, by about 20 percent, slightly better than average. T
 
 <b>What the table cannot tell us</b>
 
-So the table cannot tell us how much of that farming credit reaches a market trader in Lyantonde District, or a family farming a few acres in the Lango subregion. It cannot tell us whether one region is better served by the banking system than another. At Amara Hub, our work has shown us how much economic activity, particularly the work women do on the farm and in the market, sits outside the formal records that shape national policy. This is not a criticism of the Bank of Uganda's data, which does exactly what it sets out to do. However, it is an observation about what any national, sector-level table currently leaves out. If lending data were also published by region and by the gender of the borrower, local leaders, researchers and lenders would have a fuller picture to work from. Until then, the table can only tell us how much was lent, but not to whom, or where.
+Somewhere in that 12 percent for farming is a trader in Lyantonde and a family farming a few acres in the Lango subregion, but the table cannot see them, and neither, really, can we. A number this large should not be this anonymous.
+
+At Amara Hub, our work has shown us how much economic activity, particularly the work women do on the farm and in the market, sits outside the formal records that shape national policy. This is not a criticism of the central bank's data, which does exactly what it sets out to do. However, it is an observation about what any national, sector-level table currently leaves out. If lending data were also published by region and by the gender of the borrower, local leaders, researchers and lenders would have a fuller picture to work from. Until then, the table can only tell us how much was lent, but not to whom, or where.
 
 <b>About the data</b>
 
